@@ -55,6 +55,17 @@ FromNode, ToNode
 FromType, ToType
 FromStrength, ToStrength
 
+On more reflections, KISS. There are no "archetype" or technology jobs.
+Jobs are very specific, and include system and resource types.
+They should spread as a technology.
 
 
 
+Game Systems and Mechanics
+===
+
+
+Research - in keeping with the Change Controls model, research work can't specify specific projects. It should specify a "direction", encoded as one or more combinations of resource/job. Improvements will be determined ongoign from this.
+
+Oh shit - food -> pop as just another transform, ie Job. But bumps into bigger question - 
+if we have starvation modelled somehow, how do we distribute deaths across jobs (or redistribute pop).
